@@ -1,0 +1,7 @@
+C:\Epam\CodeWors new\ConvertHexStringToRGB\ConvertHexStringToRGB\bin\Debug\ConvertHexStringToRGB.exe.config
+C:\Epam\CodeWors new\ConvertHexStringToRGB\ConvertHexStringToRGB\bin\Debug\ConvertHexStringToRGB.exe
+C:\Epam\CodeWors new\ConvertHexStringToRGB\ConvertHexStringToRGB\bin\Debug\ConvertHexStringToRGB.pdb
+C:\Epam\CodeWors new\ConvertHexStringToRGB\ConvertHexStringToRGB\obj\Debug\ConvertHexStringToRGB.csprojAssemblyReference.cache
+C:\Epam\CodeWors new\ConvertHexStringToRGB\ConvertHexStringToRGB\obj\Debug\ConvertHexStringToRGB.csproj.CoreCompileInputs.cache
+C:\Epam\CodeWors new\ConvertHexStringToRGB\ConvertHexStringToRGB\obj\Debug\ConvertHexStringToRGB.exe
+C:\Epam\CodeWors new\ConvertHexStringToRGB\ConvertHexStringToRGB\obj\Debug\ConvertHexStringToRGB.pdb

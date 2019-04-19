@@ -1,0 +1,13 @@
+C:\Epam\CodeWors new\ConvertHexStringToRGB\ConvertHexStringToRGBTrsts-NUnit\bin\Debug\ConvertHexStringToRGBTrsts-NUnit.dll
+C:\Epam\CodeWors new\ConvertHexStringToRGB\ConvertHexStringToRGBTrsts-NUnit\bin\Debug\ConvertHexStringToRGBTrsts-NUnit.pdb
+C:\Epam\CodeWors new\ConvertHexStringToRGB\ConvertHexStringToRGBTrsts-NUnit\bin\Debug\ConvertHexStringToRGB.exe
+C:\Epam\CodeWors new\ConvertHexStringToRGB\ConvertHexStringToRGBTrsts-NUnit\bin\Debug\nunit.framework.dll
+C:\Epam\CodeWors new\ConvertHexStringToRGB\ConvertHexStringToRGBTrsts-NUnit\bin\Debug\ConvertHexStringToRGB.pdb
+C:\Epam\CodeWors new\ConvertHexStringToRGB\ConvertHexStringToRGBTrsts-NUnit\bin\Debug\ConvertHexStringToRGB.exe.config
+C:\Epam\CodeWors new\ConvertHexStringToRGB\ConvertHexStringToRGBTrsts-NUnit\bin\Debug\nunit.framework.pdb
+C:\Epam\CodeWors new\ConvertHexStringToRGB\ConvertHexStringToRGBTrsts-NUnit\bin\Debug\nunit.framework.xml
+C:\Epam\CodeWors new\ConvertHexStringToRGB\ConvertHexStringToRGBTrsts-NUnit\obj\Debug\ConvertHexStringToRGBTrsts-NUnit.csprojAssemblyReference.cache
+C:\Epam\CodeWors new\ConvertHexStringToRGB\ConvertHexStringToRGBTrsts-NUnit\obj\Debug\ConvertHexStringToRGBTrsts-NUnit.csproj.CoreCompileInputs.cache
+C:\Epam\CodeWors new\ConvertHexStringToRGB\ConvertHexStringToRGBTrsts-NUnit\obj\Debug\ConvertHexStringToRGBTrsts-NUnit.csproj.CopyComplete
+C:\Epam\CodeWors new\ConvertHexStringToRGB\ConvertHexStringToRGBTrsts-NUnit\obj\Debug\ConvertHexStringToRGBTrsts-NUnit.dll
+C:\Epam\CodeWors new\ConvertHexStringToRGB\ConvertHexStringToRGBTrsts-NUnit\obj\Debug\ConvertHexStringToRGBTrsts-NUnit.pdb
